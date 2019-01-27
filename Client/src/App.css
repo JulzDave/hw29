@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+a{
+  float:left;
+  padding:10px; 
+}
+
+a:hover{
+  color:red;
+}
+a:active{
+  color:rgb(184, 7, 7);
+}
+body{
+  
+    background: linear-gradient(180deg, lightblue 12%, white 24%);
+    background-repeat-y: no-repeat;
+    
+
+}
+
+.home{
+  float: right;
+  font-size: 25px;
+  line-height: 11px
+}
